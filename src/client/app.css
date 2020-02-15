@@ -6,3 +6,8 @@ body {
   text-align: center;
   margin: auto;
 }
+
+.mapboxy {
+  height: 1000px;
+  width: 1000px;
+}
